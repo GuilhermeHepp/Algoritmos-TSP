@@ -16,18 +16,14 @@ Repositório composto pelos seguintes arquivos:
 ## Windows  :computer:
 
 *****
-O código em Python 
-A execução do projeto deve ser feita dentro do diretório inicial, cache_simulator.
-Através do terminal, execute o comando, por exemplo:
-```
-./cache_simulator 256 4 1 R 1 bin_100.bin
-```
+Python:
+Para instalar Python no Windows, recomendo a seguinte página: [Python](https://www.python.org/downloads/windows/), **é importante que a versão mais recente do python seja instalada para evitar possíveis erros. Recomendamos versão >= 3.12.5**
+### Execução
+Você pode compilar e executar manualmente com os seguintes comandos:
 
-Caso deseje executar sem ``` ./``` execute o comando:
 ```
-export PATH=$PATH:.
+python Algoritmo_Aproximativo_Chistofides.py
+ou
+python Algoritmo_Forca_Bruta.py
 ```
-Em seguida, é possivel executar o comando normalmente, por exemplo:
-```
-cache_simulator 256 4 1 R 1 bin_100.bin
-```
+Logo depois informar o caminho até o arquivo que deseja testar, seguido de informar o tempo que deseja rodar a execução.
