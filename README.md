@@ -7,7 +7,7 @@ Este projeto aborda a resolução do Problema do Caixeiro Viajante (TSP - Travel
 
 ## Repositório :file_folder:
 Repositório composto pelos seguintes arquivos:
-- **`pasta Arquivos Teste`**: Contém os arquivos de teste de execução dos códigos.
+- **`Pasta Arquivos de Teste`**: Contém os arquivos de teste de execução dos códigos.
 - **`Algoritmo Christofides`**: Implementação do Algoritmo de Christofides, que resolve o Problema do Caixeiro Viajante.
 - **`Algoritmo Força Bruta `**: Implementação do Algoritmo de Força Bruta.
 - **`Relatório`**: Contém o relatório explicativo sobre os algoritmos e os resultados das experimentações realizadas.
