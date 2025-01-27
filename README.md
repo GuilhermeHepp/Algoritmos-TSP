@@ -13,9 +13,6 @@ O algoritmo de força bruta resolve o TSP enumerando todas as possíveis permuta
 #### Execuções
 - O projeto inclui execuções do algoritmo de força bruta, apresentando dados coletados sobre o desempenho com diferentes configurações de caches.
   
-### Comparação de Resultados
-- A comparação gráfica dos resultados obtidos com caches separadas e unificadas, e a análise do número de "misses" no cache, são apresentadas para validar a eficiência do algoritmo.
-
 ## Algoritmos Aproximativos
 
 Dada a complexidade do TSP, a resolução exata pode ser inviável para instâncias grandes, já que o tempo de execução pode se estender por longos períodos. Por isso, algoritmos aproximativos são utilizados para encontrar soluções que sejam próximas do ótimo, mas com um tempo de execução polinomial.
